@@ -1,4 +1,4 @@
-dan=19
+dan=9
 
 for i in range(1,dan+1):
     print(f'{i} dan')
